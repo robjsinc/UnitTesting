@@ -38,8 +38,6 @@ C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Mono.Cecil.Rocks.dll
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\TestNinja.Tests.dll
-C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\TestNinja.Tests.pdb
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\nunit.framework.dll
@@ -56,5 +54,7 @@ C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.UnitTests.csprojAssemblyReference.cache
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
-C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.Tests.dll
-C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.Tests.pdb
+C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\TestNinja.UnitTests.dll
+C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\bin\Debug\TestNinja.UnitTests.pdb
+C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.UnitTests.dll
+C:\Users\robjs\Desktop\TestNinja\TestNinja.Tests\obj\Debug\TestNinja.UnitTests.pdb
