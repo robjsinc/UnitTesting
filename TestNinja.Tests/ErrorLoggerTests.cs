@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using TestNinja.Fundamentals;
 
-namespace TestNinja.Tests
+namespace TestNinja.UnitTests
 {
     [TestFixture]
     public class ErrorLoggerTests

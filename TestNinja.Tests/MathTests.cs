@@ -2,7 +2,7 @@
 using NUnit.Framework;
 using System.Linq;
 
-namespace TestNinja.Tests
+namespace TestNinja.UnitTests
 {
     [TestFixture]
     public class MathTests
